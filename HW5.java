@@ -32,6 +32,8 @@ public class HW5 {
         for (int i = 15; i <= 25; i++) {
 
             System.out.println(i);
+            //   for (int i = 0; i <10; i++) {
+          //  System.out.println(i+15);
 
         }
     }
